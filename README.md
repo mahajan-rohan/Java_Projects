@@ -5,17 +5,7 @@
 
 ## Project List
 
-1. **[Console-Based Chat App](./) 💬**
-   - This project can have multiple clients that can join anytime after the server program is executed. Clients can have their Username and start chatting with other clients.
-   - **Key Concepts Learned:**
-     - 🖥️ Java programming language
-     - 🔄 Multi-Threading in Java
-     - 🌐 Socket Programming in Java
-     - 📜 BufferedReader and BufferedWriter Classes
-     - ⚠️ Exception handling
-     - 📚 Java Collections - ArrayLists, etc
-
-2. **[Bank Management System](./) 💼💳**
+1. **[Bank Management System](./) 💼💳**
    - This project is a CRUD (Create, Read, Update, Delete) application that manages various banking operations using a MySQL database.
    - **Key Features:**
      - 🔒 **Sign-in and Sign-up**: Secure access using a generated 15-digit card number and a 4-digit PIN.
@@ -27,6 +17,16 @@
      - 🔗 JDBC (Java Database Connectivity)
      - 🎨 Java Swing for GUI
      - ⚠️ Exception handling and validation
+
+2. **[Console-Based Chat App](./) 💬**
+   - This project can have multiple clients that can join anytime after the server program is executed. Clients can have their Username and start chatting with other clients.
+   - **Key Concepts Learned:**
+     - 🖥️ Java programming language
+     - 🔄 Multi-Threading in Java
+     - 🌐 Socket Programming in Java
+     - 📜 BufferedReader and BufferedWriter Classes
+     - ⚠️ Exception handling
+     - 📚 Java Collections - ArrayLists, etc
 
    This project has been an incredible learning journey in Java and database management. Looking forward to applying these skills to new challenges. 💡
 
