@@ -17,6 +17,8 @@
      - 🔗 JDBC (Java Database Connectivity)
      - 🎨 Java Swing for GUI
      - ⚠️ Exception handling and validation
+  
+       ### Demo Video -> [LinkedIn Post](https://www.linkedin.com/posts/mahajanrohan03_java-mysql-bankingsystem-activity-7215791005663420416-sNln?utm_source=share&utm_medium=member_desktop) 🔗
 
 2. **[Console-Based Chat App](./) 💬**
    - This project can have multiple clients that can join anytime after the server program is executed. Clients can have their Username and start chatting with other clients.
@@ -27,6 +29,8 @@
      - 📜 BufferedReader and BufferedWriter Classes
      - ⚠️ Exception handling
      - 📚 Java Collections - ArrayLists, etc
+  
+       ### Demo Video -> [LinkedIn Post](https://www.linkedin.com/posts/mahajanrohan03_java-socketprogramming-networking-activity-7182580796627595264-OCrE?utm_source=share&utm_medium=member_desktop) 🔗
 
    This project has been an incredible learning journey in Java and database management. Looking forward to applying these skills to new challenges. 💡
 
